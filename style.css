@@ -10,7 +10,7 @@ nav{
     text-decoration: none;
 }
 nav a{
-    color: white;
+    color: black;
     padding: 10px 10px;
     text-decoration: none;
     margin-right: 10px;
@@ -20,7 +20,7 @@ nav a:hover{
 }
   .sidetext{
     margin-top: 50px;
-    color: whitesmoke;
+    color: black;
     font-size: xx-large;
     margin-left: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -29,7 +29,7 @@ nav a:hover{
 .sidetext1{
     margin-top: 300px;
     padding-left: 35%;
-    color: white;
+    color: black;
     font-size: xx-large;
     margin-left: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
