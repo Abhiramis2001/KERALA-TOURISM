@@ -1,13 +1,15 @@
-body{
-    background-image: url(images/loginbg.jpg);
-    background-size: cover;
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: black;
 }
-form{
-    float: left;
-    height: 250px;
-    margin-top: 3%;
-    margin-right: 60px;
-    width: 15%;
-    padding-left: 630px;
-    padding-top: 0px;
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
 }

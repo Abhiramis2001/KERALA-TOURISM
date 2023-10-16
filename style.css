@@ -1,47 +1,12 @@
-body{
-    background-image: url(images/bg3.jpg);
-    background-size: cover;
-}
-nav{
-    float:right;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size:large;
-    text-align: center;
-    text-decoration: none;
-}
-nav a{
-    color: black;
-    padding: 10px 10px;
-    text-decoration: none;
-    margin-right: 50px;
-    
-}
-nav a:hover{
-    color: rgb(212, 212, 230);
-}
-  .sidetext{
-    margin-top: 50px;
-    color: black;
-    font-size: xx-large;
-    margin-left: 50px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration: double;
-  }
-.sidetext1{
-    margin-top: 300px;
-    padding-left: 35%;
-    color: black;
-    font-size: xx-large;
-    margin-left: 50px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration:wavy;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-.card{
-    margin-top: 100px;
+img{
+    padding: 5%;
 }
+.card-img{
+    padding: 6%;
 
-.card2{
-    margin-left: 1000px;
-    margin-top: 10px;
 }
